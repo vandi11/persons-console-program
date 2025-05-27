@@ -1,0 +1,14 @@
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\bin\Debug\net8.0\PersonsConsoleProgram.exe
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\bin\Debug\net8.0\PersonsConsoleProgram.deps.json
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\bin\Debug\net8.0\PersonsConsoleProgram.runtimeconfig.json
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\bin\Debug\net8.0\PersonsConsoleProgram.dll
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\bin\Debug\net8.0\PersonsConsoleProgram.pdb
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.AssemblyInfoInputs.cache
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.AssemblyInfo.cs
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.csproj.CoreCompileInputs.cache
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.dll
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\refint\PersonsConsoleProgram.dll
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.pdb
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\PersonsConsoleProgram.genruntimeconfig.cache
+C:\Users\Diak\source\repos\PersonsConsoleProgram\PersonsConsoleProgram\obj\Debug\net8.0\ref\PersonsConsoleProgram.dll
